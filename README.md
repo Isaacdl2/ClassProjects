@@ -12,10 +12,10 @@ My coding projects as University so far! Includes algorithm development, data st
 
 ### **C++**
 - **ECE_102**
-  One of my third semester programming courses in C++ 
+  One of my third semester programming courses in C++.
 - **ECE_101**  
-  One of my second semester programming courses in C++
+  One of my second semester programming courses in C++.
 
 ### **Java**
 - **CSC_210**  
- One of my third semester programming courses in Java
+ One of my third semester programming courses in Java.
